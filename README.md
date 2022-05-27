@@ -14,8 +14,8 @@
 apt update && apt upgrade
 pkg install python
 apt install git
-git clone https://github.com/
-cd duplo-bomber
+git clone https://github.com/The-company-VITRIX/Yabko_Spam
+cd yabko_spam
 pip install -r requirements.txt
 ```
 **(for Linux users)**
@@ -23,13 +23,13 @@ pip install -r requirements.txt
 sudo apt-get update && sudo apt-get upgrade
 sudo apt-get install python3-pip
 sudo apt-get install git
-git clone https://
+git clone https://The-company-VITRIX/Yabko_Spam
 pip3 install -r requirements.txt
 ```
 
 ## Start
 ```
-python3 duplo_spam.py
+python3 yabko_spam.py
 ```
 
 
