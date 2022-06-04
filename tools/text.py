@@ -36,4 +36,4 @@ YABKO BOMBER
 {RESET_ALL}"""
 )
 
-cursor = BOLD + f"{colors}d.hack >> "
+cursor = BOLD + f"{colors}La_VENTOR.hack >> "
