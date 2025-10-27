@@ -10,7 +10,7 @@
 apt update && apt upgrade
 pkg install python
 apt install git
-git clone https://github.com/V1TR1V/Yabko_Spam
+git clone https://github.com/root616C6578/Yabko_Spam
 cd yabko_spam
 pip install -r requirements.txt
 ```
@@ -19,7 +19,7 @@ pip install -r requirements.txt
 sudo apt-get update && sudo apt-get upgrade
 sudo apt-get install python3-pip
 sudo apt-get install git
-git clone https://V1TR1V/Yabko_Spam
+git clone https://root616C6578/Yabko_Spam
 pip3 install -r requirements.txt
 ```
 
